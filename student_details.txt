@@ -4,14 +4,14 @@
 
 Group No. : 01
 
-Student 1 : Aarav Sharma
-Roll No.  : AI23001
+Student 1 : Madhavi Pant
+Roll No.  : 34153
 
-Student 2 : Priya Verma
-Roll No.  : AI23015
+Student 2 : Siddhant Patil
+Roll No.  : 34154
 
-Student 3 : Rohan Patil
-Roll No.  : AI23028
+Student 3 : Dhruval Porwal
+Roll No.  : 34158
 
 Branch    : Artificial Intelligence & Data Science (AI & DS)
 
