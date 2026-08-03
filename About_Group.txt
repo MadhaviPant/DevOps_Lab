@@ -1,0 +1,28 @@
+==========================================
+          ABOUT OUR DEVOPS GROUP
+==========================================
+
+Group Name : DevOps Group 01
+Experiment : Practical DevOps - Experiment 1
+
+Group Members:
+1. Aarav Sharma   (AI23001)
+2. Priya Verma    (AI23015)
+3. Rohan Patil    (AI23028)
+
+Objective:
+This repository has been created as part of the Practical DevOps laboratory to understand the concepts of Version Control Systems using Git and GitHub.
+
+Our group aims to:
+- Learn Git repository creation.
+- Understand file staging and commits.
+- Practice pushing code to GitHub.
+- Collaborate using a shared GitHub repository.
+- Track project history using Git commands.
+
+Repository Purpose:
+This repository contains all files, documentation, and activities completed during Practical DevOps Experiment 1.
+
+Created For:
+Department of Artificial Intelligence & Data Science
+Practical DevOps Laboratory

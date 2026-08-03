@@ -1,0 +1,32 @@
+==========================================
+        DEVOPS PRACTICAL - EXPERIMENT 1
+==========================================
+
+Group No. : 01
+
+Student 1 : Aarav Sharma
+Roll No.  : AI23001
+
+Student 2 : Priya Verma
+Roll No.  : AI23015
+
+Student 3 : Rohan Patil
+Roll No.  : AI23028
+
+Branch    : Artificial Intelligence & Data Science (AI & DS)
+
+Subject   : Practical DevOps
+Experiment: Version Control System, Source Code Management using Git and GitHub
+
+Practical DevOps Experiment 1
+
+Date      : 03 August 2026
+
+------------------------------------------
+This repository has been created as part
+of the Practical DevOps laboratory to
+understand the fundamentals of Git and
+GitHub, including repository creation,
+version control, commits, and
+collaborative development.
+------------------------------------------
